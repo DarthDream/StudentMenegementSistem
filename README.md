@@ -1,0 +1,2 @@
+# StudentMenegementSistem
+Consol app
